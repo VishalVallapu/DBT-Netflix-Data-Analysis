@@ -32,8 +32,4 @@ dbt transformations with staging, intermediate, and serving models
 Testing, documentation, and version control using dbt
 BI integration for reporting
 Clean, modular, and reusable SQL models
-🏁 How to Run Locally
-Clone the Repo
-git clone https://github.com/yourusername/netflix-dbt-project.git
-cd netflix-dbt-project
 ![image](https://github.com/user-attachments/assets/d20c9797-297a-4991-b1fc-75ba98aec95b)
